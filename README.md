@@ -8,6 +8,9 @@
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
 |07/10/1997|M       |Blue            |Pizza          |[x] yes [] no       |
 
+###### training
+[Becode.org](https://becode.org/fr/) 🎓
+
 ###### Hobbies
 - playing video games :video_game:
 - IT :computer:
