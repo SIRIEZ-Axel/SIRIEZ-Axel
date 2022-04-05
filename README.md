@@ -2,13 +2,13 @@
 
 *Come As You Are - Nirvana :guitar:*
 
-#### Hello, my name is Axel Siriez, I'm 24 years old and I'm born in belgium.
+#### Hello I'm 24 years old and I'm born in belgium.
 
 | Birthday | Gender | Favorite color | Favorite food | pineapple on pizza |
 |:--------:|:------:|:--------------:|:-------------:|:------------------:|
 |07/10     |M       |Blue            |Pizza          |<ul><li> [x] yes </li><li> [ ] no </li></ul>|
 
-### training
+### Training
 [Becode.org](https://becode.org/fr/) 🎓
 
 ### Programming languages
