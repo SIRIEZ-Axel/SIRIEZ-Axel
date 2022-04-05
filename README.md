@@ -13,10 +13,10 @@
 
 ### Programming languages
 [![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)
-<img src="https://img.shields.io/badge/HTML-brightgreen?style=flat-square&logo=appveyor"> 
-<img src ="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=appveyor">
-<img src="https://img.shields.io/badge/SASS-red?style=flat-square&logo=appveyor"> 
-<img src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/badge/HTML-brightgreen"> 
+<img src ="https://img.shields.io/badge/-CSS-blueviolet">
+<img src="https://img.shields.io/badge/SASS-red"> 
+<img src="https://img.shields.io/badge/Javascript-blue">
 
 ### Hobbies
 - playing video games :video_game:
