@@ -12,12 +12,14 @@
 [Becode.org](https://becode.org/fr/) 🎓
 
 ### Programming languages
-[![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a) </br>
-
+[![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)
+<img src="https://img.shields.io/badge/GIT-yellow">
+<img src="https://img.shields.io/badge/Github-yellow">
 <img src="https://img.shields.io/badge/HTML-brightgreen"> 
 <img src ="https://img.shields.io/badge/-CSS-blueviolet">
 <img src="https://img.shields.io/badge/SASS-red"> 
 <img src="https://img.shields.io/badge/Javascript-blue">
+
 
 ### Hobbies
 - playing video games :video_game:
@@ -45,3 +47,6 @@ My story happened the day before this code, I was hanging with friends when one 
 
 ### TL;DR 
 It is a story of friends who are going in circle.
+
+### Link about me
+[linkedin](https://www.linkedin.com/in/axel-siriez-web-dev/)
