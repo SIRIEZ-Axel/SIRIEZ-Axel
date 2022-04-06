@@ -1,6 +1,6 @@
 ## Axel SIRIEZ
 
-*Come As You Are - Nirvana :guitar:*
+*Come As You Are - Nirvana* :guitar:
 
 #### Hello I'm 24 years old and I'm born in belgium.
 
