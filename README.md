@@ -12,7 +12,10 @@
 [Becode.org](https://becode.org/fr/) 🎓
 
 ### Programming languages
-[![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)<br>
+
+[![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)
+
+<p>
 <img src="https://img.shields.io/badge/GIT-yellow">
 <img src="https://img.shields.io/badge/Github-yellow">
 <img src="https://img.shields.io/badge/Markdown-brown">
@@ -20,7 +23,7 @@
 <img src ="https://img.shields.io/badge/-CSS-red">
 <img src="https://img.shields.io/badge/SASS-red"> 
 <img src="https://img.shields.io/badge/Javascript-blue">
-
+</p>
 
 ### Hobbies
 - playing video games :video_game:
