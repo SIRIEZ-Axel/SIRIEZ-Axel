@@ -18,13 +18,13 @@
 [![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)
 
 <p>
-<img src="https://img.shields.io/badge/GIT-yellow">
-<img src="https://img.shields.io/badge/Github-yellow">
-<img src="https://img.shields.io/badge/Markdown-brown">
-<img src="https://img.shields.io/badge/HTML-brightgreen"> 
-<img src ="https://img.shields.io/badge/-CSS-red">
-<img src="https://img.shields.io/badge/SASS-red"> 
-<img src="https://img.shields.io/badge/Javascript-blue">
+<img src="https://img.shields.io/badge/GIT-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Markdown-brown?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge"> 
+<img src ="https://img.shields.io/badge/-CSS-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/SASS-red?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge">
 </p>
 
 ## Hobbies 
