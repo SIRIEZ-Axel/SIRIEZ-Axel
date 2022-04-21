@@ -11,7 +11,7 @@
 |07/10     |M       |Blue            |Pizza          |<ul><li> [x] yes </li><li> [ ] no </li></ul>|
 
 ## Training
-[Becode.org](https://becode.org/fr/) 🎓
+🎓 [Becode.org](https://becode.org/fr/) 
 
 ## Programming languages
 
