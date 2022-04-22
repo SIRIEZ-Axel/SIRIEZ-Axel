@@ -56,5 +56,5 @@ My story happened the day before this code, I was hanging with friends when one 
 ## TL;DR 
 It is a story of friends who are going in circle.
 
-## Link about me 🌎
-[linkedin](https://www.linkedin.com/in/axel-siriez-web-dev/)
+## Link 🌎
+[Linkedin](https://www.linkedin.com/in/axel-siriez-web-dev/)
