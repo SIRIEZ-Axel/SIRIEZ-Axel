@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIRIEZ-Axel">
+</p>
+
 ## Hobbies 
 - playing video games :video_game:
 - IT :computer:
