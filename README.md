@@ -61,4 +61,7 @@ My story happened the day before this code, I was hanging with friends when one 
 It is a story of friends who are going in circle.
 
 ## Link 🌎
-[Linkedin](https://www.linkedin.com/in/axel-siriez-web-dev/)
+
+[<img src="https://user-images.githubusercontent.com/98603007/166164743-36cff464-a2c3-4a7d-a0ee-34187ce0cfb4.png" width=40px>](https://www.linkedin.com/in/axel-siriez-web-dev/) Axel Siriez
+
+[<img src="https://user-images.githubusercontent.com/98603007/166164804-869d07f0-d1b0-4dd5-8ce4-77b0ec8beaf0.png" width=40px>](https://mail.google.com/mail/u/0/?pli=1#inbox) axel.siriez@gmail.com
