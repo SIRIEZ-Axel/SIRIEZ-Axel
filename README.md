@@ -17,16 +17,33 @@
 
 [![wakatime](https://wakatime.com/badge/user/8e522fb0-911e-4bf8-a7b0-5d557997cc1a.svg)](https://wakatime.com/@8e522fb0-911e-4bf8-a7b0-5d557997cc1a)
 
+<h3>General tools</h3>
 <p>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=white">
-</p>
-<p>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-brown?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<h3>Front end tools</h3>
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
+<h3>Back end tools</h3>
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+<h3>Framework</h3>
+<p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 <p>
